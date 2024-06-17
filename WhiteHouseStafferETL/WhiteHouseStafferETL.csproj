@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <None Include="..\..\..\..\source\repos\CreateDB.sql" Link="CreateDB.sql" />
+    <None Include="..\..\..\..\source\repos\SelectTableQueries.sql" Link="SelectTableQueries.sql" />
   </ItemGroup>
 
   <ItemGroup>
